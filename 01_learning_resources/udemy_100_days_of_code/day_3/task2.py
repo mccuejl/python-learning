@@ -8,5 +8,4 @@ if number_to_check % 2 == 0:
     print("You entered an even number.")
 else:
     print("You entered an odd number.")
-
     
